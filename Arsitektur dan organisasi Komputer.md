@@ -28,37 +28,44 @@ Nilai desimal :437 + 346 = 783
 
 B. Pengurangan biner
 4. 10101 – 10011
+```
 = 10
 10101₂
 - 10011₂
 -------
    00110₂
+```
 Nilai desimal:
 21 – 19
 = 2
 
 5. 110010 – 101101
+```
 =0101
 110010₂
 - 101101₂
 -------
    000101₂
+```
 Nilai desimal:
 50 – 45
 = 5
 
 6.100110 – 11001
+```
 = 01101
 100110₂
 -  11001₂
 -------
   011101₂
+```
 Nilai desimal:
 38 – 25
 = 13
 
-C Perkalian Biner
-7 . 110 × 101
+C. Perkalian Biner
+7. 110 × 101
+```
 = 11110
 110₂ × 101₂
       110
@@ -69,11 +76,13 @@ C Perkalian Biner
 110     (110 × 1, geser 2 posisi ke kiri)
 -----
 11110
+```
 Nilai desimal:
 6 × 5
 = 30
 
 8. 1011 × 110
+```
 = 1000010
  1011₂
 x  110₂
@@ -83,6 +92,7 @@ x  110₂
 +1011  (1011 x 1, geser dua kolom ke kiri)
 -------
 1000010₂
+```
 Nilai desimal:
 11 × 6
 = 66

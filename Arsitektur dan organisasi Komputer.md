@@ -1,5 +1,5 @@
-A. Penjumlahan biner
-1.  1101+1011=11000
+### A. Penjumlahan biner
+1. 1101+1011=11000
 ```
   1101₂
 + 1011₂
@@ -8,7 +8,7 @@ A. Penjumlahan biner
 ```
 Nilai desimal: 13+11=24
 
-2.  11101+11011=111000
+2. 11101+11011=111000
 ```
   11101₂
 + 11011₂
@@ -17,7 +17,7 @@ Nilai desimal: 13+11=24
 ```
 Nilai desimal: 29+27=56
 
-3.  110110101 + 101011010=1100001111
+3. 110110101 + 101011010=1100001111
 ```
   11101₂
 + 11011₂
@@ -26,7 +26,8 @@ Nilai desimal: 29+27=56
 ```
 Nilai desimal :437 + 346 = 783
 
-B. Pengurangan biner
+### B. Pengurangan biner
+
 4. 10101 – 10011
 ```
 = 10
@@ -63,7 +64,8 @@ Nilai desimal:
 38 – 25
 = 13
 
-C. Perkalian Biner
+### C. Perkalian Biner
+
 7. 110 × 101
 ```
 = 11110
